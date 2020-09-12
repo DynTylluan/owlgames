@@ -17,5 +17,8 @@ WADs that break one or more of the rules listed will be rejected from the archiv
 * WADs that don't work in vanilla (duh)
 * Anything that isn't packaged in a ZIP file (no 7-Zip or anything else, ZIP only!)
 
+## Contact
+If you want to bug the head of this collection for whatever reason, do feel free to send them a letter over on at [**E-Mail**](mailto:owlman@protonmail.com) or a better way to get in touch would be over on at Discord; **Owly#6604** - they won't bite!
+
 ## Fun fact
-We are not associated with anyone!
+We are not associated with anyone, wow!
